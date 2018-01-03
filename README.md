@@ -18,17 +18,17 @@ Code examples for the new features of iOS 11 written in Swift.
 ![](Resources/gif)
 <br />
 ## PDFKit
-[Desc]
+The **PDFKit** framework allows you to display and manipulate Portable Document Format (PDF) files in your applications.
 <br />
 ![](Resources/pdf_kit.gif)
 <br />
 ## Vision Framework
-[Desc] 
+**Vision** framework lets you apply high-performance image analysis and computer vision techniques to identify faces, detect features, and classify scenes in images and video
 <br />
 ![](Resources/vision_framework.gif)
 <br />
 ## MusicKit
-[Desc]
+**MusicKit** lets users play Apple Music and their local music library natively from your apps and games. 
 <br />
 ![](Resources/music_kit.gif)
 <br />
@@ -38,12 +38,12 @@ Code examples for the new features of iOS 11 written in Swift.
 ![](Resources/gif)
 <br />
 ## Advanced Animations with UIKit
-[Desc]
+UIViewPropertyAnimator object additions.
 <br />
 ![](Resources/advanced_animations.gif)
 <br />
 ## CoreNFC
-[Desc]
+CoreNFC enables you to detect NFC tags and read messages that contain NDEF data on iPhone 7, iPhone 7 Plus and newer.
 <br />
 ![](Resources/core_nfc.gif)
 <br />
