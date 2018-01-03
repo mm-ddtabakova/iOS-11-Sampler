@@ -21,7 +21,7 @@ Code examples for the new features of iOS 11 written in Swift.
 ![](Resources/gif)
 <br />
 ## PDFKit
-The **PDFKit** framework allows you to display and manipulate Portable Document Format (PDF) files in your applications.
+**PDFKit** framework allows you to display and manipulate Portable Document Format (PDF) files in your applications.
 <br />
 <br />
 ![](Resources/pdf_kit.gif)
@@ -45,13 +45,13 @@ The **PDFKit** framework allows you to display and manipulate Portable Document 
 ![](Resources/gif)
 <br />
 ## Advanced Animations with UIKit
-UIViewPropertyAnimator object additions.
+**UIViewPropertyAnimator** object additions.
 <br />
 <br />
 ![](Resources/advanced_animations.gif)
 <br />
 ## CoreNFC
-CoreNFC enables you to detect NFC tags and read messages that contain NDEF data on iPhone 7, iPhone 7 Plus and newer.
+**CoreNFC** enables you to detect NFC tags and read messages that contain NDEF data on iPhone 7, iPhone 7 Plus and newer.
 <br />
 <br />
 ![](Resources/core_nfc.gif)
