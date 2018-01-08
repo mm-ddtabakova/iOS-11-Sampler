@@ -6,19 +6,19 @@ Code examples for the new features of iOS 11 written in Swift.
 [Desc] 
 <br />
 <br />
-![](Resources/gif)
+![](Resources/drag_and_drop.gif)
 <br />
 ## Natural Language Processing API
 [Desc]
 <br />
 <br />
-![](Resources/gif)
+![](Resources/nlp.gif)
 <br />
 ## Persistent History Tracking
 [Desc]
 <br />
 <br />
-![](Resources/gif)
+![](Resources/pht.gif)
 <br />
 ## PDFKit
 **PDFKit** framework allows you to display and manipulate Portable Document Format (PDF) files in your applications.
@@ -42,7 +42,7 @@ Code examples for the new features of iOS 11 written in Swift.
 [Desc]
 <br />
 <br />
-![](Resources/gif)
+![](Resources/ar_kit.gif)
 <br />
 ## Advanced Animations with UIKit
 **UIViewPropertyAnimator** object additions.
