@@ -3,13 +3,13 @@ Code examples for the new features of iOS 11 written in Swift.
 
 
 ## Drag and Drop
-**Drag and Drop**is a way to graphically move data from one application to another or even within the same application.
+**Drag and Drop** is a way to graphically move data from one application to another or even within the same application.
 <br />
 <br />
 ![](Resources/drag_and_drop.gif)
 <br />
 ## Natural Language Processing API
-**Natural Language Processing**API use machine learning to deeply understand text using features such as language identification, tokenization, lemmatization, part of speech, and named entity recognition.
+**Natural Language Processing** API use machine learning to deeply understand text using features such as language identification, tokenization, lemmatization, part of speech, and named entity recognition.
 <br />
 <br />
 ![](Resources/nlp.gif)
