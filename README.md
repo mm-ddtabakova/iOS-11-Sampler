@@ -3,22 +3,22 @@ Code examples for the new features of iOS 11 written in Swift.
 
 
 ## Drag and Drop
-[Desc] 
+**Drag and Drop** is a way to graphically move data from one application to another or even within the same application.
 <br />
 <br />
-![](Resources/gif)
+![](Resources/drag_and_drop.gif)
 <br />
 ## Natural Language Processing API
-[Desc]
+**Natural Language Processing** API use machine learning to deeply understand text using features such as language identification, tokenization, lemmatization, part of speech, and named entity recognition.
 <br />
 <br />
-![](Resources/gif)
+![](Resources/nlp.gif)
 <br />
 ## Persistent History Tracking
-[Desc]
+**Persistent History Tracking** targets the issue, where you have multiple contexts and extensions updating a single persistent store.
 <br />
 <br />
-![](Resources/gif)
+![](Resources/pht.gif)
 <br />
 ## PDFKit
 **PDFKit** framework allows you to display and manipulate Portable Document Format (PDF) files in your applications.
@@ -39,10 +39,10 @@ Code examples for the new features of iOS 11 written in Swift.
 ![](Resources/music_kit.gif)
 <br />
 ## ARKit
-[Desc]
+**ARKit** helps us create the illusion that virtual objects are placed in a physical world.
 <br />
 <br />
-![](Resources/gif)
+![](Resources/ar_kit.gif)
 <br />
 ## Advanced Animations with UIKit
 **UIViewPropertyAnimator** object additions.
